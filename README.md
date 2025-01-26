@@ -40,6 +40,7 @@ The application offers dynamic features like importing invoice data from files, 
 ## Installation
 1. Clone the repository:
    ```bash
+   https://github.com/Zus-00/Invoice_Maker_.NET_WPF.git
 
 ## License
 This project is licensed under the MIT License.
