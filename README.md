@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# InvoiceMaker-WPF
+# InvoiceMaker(.NET_WPF)
 
 ## Overview
-**InvoiceMaker-WPF** is a professional-grade application developed to assist small businesses in managing their invoices efficiently. Built using **Windows Presentation Foundation (WPF)**, it showcases expertise in object-oriented programming (OOP), advanced C# techniques, and modern UI design.
+A Windows Presentation Foundation (WPF) application developed to streamline invoice generation and management. It showcases implementation in object-oriented programming (OOP), advanced C# techniques, and modern UI design.
 
 The application offers dynamic features like importing invoice data from files, calculating totals with taxes, and providing a user-friendly interface for real-time updates.
 
@@ -44,6 +44,4 @@ The application offers dynamic features like importing invoice data from files, 
 ## License
 This project is licensed under the MIT License.
 =======
-# InvoiceMaker(.NET_WPF)
-A Windows Presentation Foundation (WPF) application designed to streamline invoice generation and management. This project showcases a practical implementation of object-oriented programming (OOP) principles and advanced features of the .NET Framework. It incorporates modern software development techniques.
 >>>>>>> 0bbc76bfa72436a82852ff5dbdc3848fe7ba7294
